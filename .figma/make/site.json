@@ -1,0 +1,10 @@
+{
+  "description": "다온한방병원의 진료 분야와 의료진, 병원 정보를 안내하고 진료 예약 및 방문 문의를 돕는 반응형 병원 웹사이트입니다.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
